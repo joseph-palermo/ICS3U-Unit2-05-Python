@@ -18,3 +18,6 @@ def local_variable()
     variable_Z = variable_X + variable_Y
     print("Local variable_X, variable_Y, variable_Z: {0} + {1} = {2}").
         format(variable_X, variable_Y, variable_Z)
+
+
+https://miniwebtool.com/area-of-a-sector-calculator/?n1=19&n2=90
